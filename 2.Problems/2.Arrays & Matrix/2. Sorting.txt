@@ -1,0 +1,33 @@
+
+
+3. Selection Sort : 
+		
+ 	    		video : https://www.youtube.com/watch?v=HGk_ypEuS24&t=167s
+			solve : https://www.geeksforgeeks.org/problems/selection-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=selection-sort
+			solution : https://takeuforward.org/sorting/selection-sort-algorithm/
+
+4. Bubble Sort : 
+		
+ 	    		video : https://www.youtube.com/watch?v=HGk_ypEuS24&t=1061s
+			solve : https://www.geeksforgeeks.org/problems/bubble-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bubble-sort
+			solution : https://takeuforward.org/data-structure/bubble-sort-algorithm/
+
+
+5. Insertion Sort : 
+		
+ 	    		video : https://www.youtube.com/watch?v=HGk_ypEuS24&t=1900s
+			solve : https://www.geeksforgeeks.org/problems/insertion-sort/0?category%5B%5D=Algorithms&page=1&query=category%5B%5DAlgorithmspage1&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=insertion-sort
+			solution : https://takeuforward.org/data-structure/insertion-sort-algorithm/
+
+
+6. Merge Sort : 
+		
+ 	    		video : https://www.youtube.com/watch?v=ogjf7ORKfd8
+			solve : https://www.geeksforgeeks.org/problems/merge-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=merge-sort
+			solution : https://takeuforward.org/data-structure/merge-sort-algorithm/
+
+3. Quick Sort : 
+		
+ 	    		video : https://www.youtube.com/watch?v=WIrA4YexLRQ
+			solve : https://www.geeksforgeeks.org/problems/quick-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=quick-sort
+			solution : https://takeuforward.org/data-structure/quick-sort-algorithm/

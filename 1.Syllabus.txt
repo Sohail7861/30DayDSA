@@ -1,0 +1,39 @@
+DSA - Syllabus & Roadmap
+
+
+1. Time and Space Complexity
+
+2. Arrays & Matrix
+   - Searching
+   - Sorting
+   - Sliding Window
+   - Two Pointer
+   - Kadane’s Algorithm (Subarray)
+
+3. Strings
+
+4. Recursion
+
+5. Linked Lists
+   - Singly, Doubly, Circular
+   - Floyd-Warshall (Cycle Detection)
+   - Reverse LL
+   - Iterative & Recursive Approaches
+
+6. Stacks
+
+7. Queues
+
+8. Trees
+   - Binary Trees (BTs)
+   - Binary Search Trees (BST)
+
+9. Tries, Heaps, Hashmaps
+
+10. Graphs
+
+11. Dynamic Programming
+
+12. Priority Queue & Greedy Algorithms
+    
+

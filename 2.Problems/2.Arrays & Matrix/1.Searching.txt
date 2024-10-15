@@ -1,0 +1,16 @@
+Problems
+
+1. Linear Search : video : https://youtu.be/_HRA37X8N_Q?si=m3KKlTiHLLVH6hN4
+
+		   solve : https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1
+
+		   solution : https://www.geeksforgeeks.org/linear-search/
+
+
+2. Binary Search : video : https://youtu.be/MHf6awe89xw?si=I3HFcQInrqKUx7uL
+		   
+		   solve : https://www.geeksforgeeks.org/problems/binary-search-1587115620/1
+		
+		   solution : https://takeuforward.org/data-structure/binary-search-explained/
+
+	

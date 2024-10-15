@@ -1,0 +1,69 @@
+
+1. Largest Element in an Array : 
+				 video : https://www.youtube.com/watch?v=37E9ckMDdTk&t=526s
+				 solve : https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array
+				 solution : https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/
+
+2.Second Largest Element in an Array without sorting : 
+				                  video : https://www.youtube.com/watch?v=37E9ckMDdTk&t=526s
+				                  solve : https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest
+				                  solution : https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/
+
+
+3. Check if the array is sorted : 
+				 video : https://www.youtube.com/watch?v=37E9ckMDdTk&t=526s
+				 solve : https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/
+				 solution : https://takeuforward.org/data-structure/check-if-an-array-is-sorted/
+
+
+4. Remove duplicates from Sorted array : 
+				 video : https://www.youtube.com/watch?v=37E9ckMDdTk&t=526s
+				 solve : https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+				 solution : https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/
+
+
+5. Left Rotate an array by one place : 
+				 video : https://www.youtube.com/watch?v=wvcQg43_V8U&t=61s
+				 solve : https://leetcode.com/problems/rotate-array/description/
+				 solution : https://takeuforward.org/data-structure/left-rotate-the-array-by-one/
+
+6. Left rotate an array by D places: 
+				 video : https://www.youtube.com/watch?v=wvcQg43_V8U&t=61s
+				 solve : https://leetcode.com/problems/rotate-array/description/
+				 solution : https://takeuforward.org/data-structure/rotate-array-by-k-elements/
+
+7. Move Zeros to end : 
+				 video : https://www.youtube.com/watch?v=wvcQg43_V8U&t=61s
+				 solve : https://leetcode.com/problems/move-zeroes/description/
+				 solution : https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/
+
+8. Find the Union : 
+				 video : https://www.youtube.com/watch?v=wvcQg43_V8U&t=61s
+				 solve : https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=union-of-two-sorted-arrays
+				 solution : https://takeuforward.org/data-structure/union-of-two-sorted-arrays/
+
+9. Find missing number in an array : 
+				 video : https://www.youtube.com/watch?v=bYWLJb3vCWY
+				 solve : https://leetcode.com/problems/missing-number/description/
+				 solution : https://takeuforward.org/arrays/find-the-missing-number-in-an-array/
+
+10. Maximum Consecutive Ones : 
+				 video : https://www.youtube.com/watch?v=bYWLJb3vCWY
+				 solve : https://leetcode.com/problems/max-consecutive-ones/description/
+				 solution : https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/
+
+11. Find the number that appears once, and other numbers twice. : 
+				 video : https://www.youtube.com/watch?v=bYWLJb3vCWY
+				 solve : https://leetcode.com/problems/single-number/description/
+				 solution : https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
+
+12. Longest subarray with given sum K(positives) : 
+				 video : https://www.youtube.com/watch?v=frf7qxiN2qU&t=1621s
+				 solve : https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k
+				 solution : https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
+
+13. Longest subarray with sum K (Positives + Negatives) : 
+				 video : https://www.youtube.com/watch?v=frf7qxiN2qU&t=1621s
+				 solve : https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=longest-sub-array-with-sum-k
+				 solution : https://takeuforward.org/arrays/longest-subarray-with-sum-k-postives-and-negatives/
+
