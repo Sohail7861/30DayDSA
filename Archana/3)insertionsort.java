@@ -1,5 +1,5 @@
 public class insertionsort{
-    // Method to perform insertion sort
+    
     public static void insertionSort(int[] array) {
         // Loop over the array starting from the second element
         for (int i = 1; i < array.length; i++) {
@@ -16,7 +16,7 @@ public class insertionsort{
         }
     }
 
-    // Helper method to print the array
+    // to print the array
     public static void printArray(int[] array) {
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i] + " ");
