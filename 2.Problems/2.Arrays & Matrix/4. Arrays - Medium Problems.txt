@@ -1,0 +1,71 @@
+1. 2 Sum :
+      Video    : https://youtu.be/UXDSeD9mN-k?si=4Wx56NrbNOhYdz8e
+      Problem  : https://leetcode.com/problems/two-sum/description/
+      Solution : https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/
+
+2. Sort 0s,1s,2s :
+      Video    : https://youtu.be/tp8JIuCXBaU
+      Problem  : https://leetcode.com/problems/sort-colors/description/
+      Solution : https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/
+
+3. Majority Element :
+      Video    : https://www.youtube.com/watch?v=nP_ns3uSh80
+      Problem  : https://leetcode.com/problems/majority-element/description/
+      Solution : https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/
+
+4. Maximum Sum Subarray(Kadane's Algorithm) :
+      Video    : https://youtu.be/AHZpyENo7k4?si=MeBQhbFFwN-k8jwC
+      Problem  : https://leetcode.com/problems/maximum-subarray/description/
+      Solution : https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/
+
+5. Maximum Sum Subarray II :
+      Video    : https://youtu.be/AHZpyENo7k4
+      Problem  : https://www.geeksforgeeks.org/problems/max-sum-in-sub-arrays0824/0?category&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=max-sum-in-sub-arrays
+      Solution : https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/
+
+6. Stock buy and sell :
+      Video    : https://youtu.be/excAOvwF_Wk
+      Problem  : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+      Solution : https://takeuforward.org/data-structure/stock-buy-and-sell/
+
+7. Alternative +ve and -ve elements in Array :
+      Video    : https://youtu.be/h4aBagy4Uok
+      Problem  : https://leetcode.com/problems/rearrange-array-elements-by-sign/description/
+      Solution : https://takeuforward.org/arrays/rearrange-array-elements-by-sign/
+
+8. Next Permutation :
+      Video    : https://youtu.be/JDOXKqF60RQ
+      Problem  : https://leetcode.com/problems/next-permutation/description/
+      Solution : https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/
+
+9. Leaders in an Array :
+      Video    : https://youtu.be/cHrH9CQ8pmY
+      Problem  : https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=leaders-in-an-array
+      Solution : https://takeuforward.org/data-structure/leaders-in-an-array/
+
+10. Longest Consecutive Sequence :
+      Video    : https://youtu.be/oO5uLE7EUlM
+      Problem  : https://leetcode.com/problems/longest-consecutive-sequence/editorial/
+      Solution : https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/
+
+11. Set Matrix Zeroes :
+      Video    : https://youtu.be/N0MgLvceX7M
+      Problem  : https://leetcode.com/problems/set-matrix-zeroes/description/
+      Solution : https://takeuforward.org/data-structure/set-matrix-zero/
+
+12. Rotate Matrix by 90 degrees :
+      Video    : https://youtu.be/Z0R2u6gd3GU
+      Problem  : https://leetcode.com/problems/rotate-image/description/
+      Solution : https://takeuforward.org/data-structure/rotate-image-by-90-degree/
+
+13. Spiral Matrix :
+      Video    : https://youtu.be/3Zv-s9UUrFM
+      Problem  : https://leetcode.com/problems/spiral-matrix/description/
+      Solution : https://takeuforward.org/data-structure/spiral-traversal-of-matrix/
+
+14. Subarray Sum :
+      Video    : https://youtu.be/xvNwoz-ufXA
+      Problem  : https://leetcode.com/problems/subarray-sum-equals-k/description/
+      Solution : https://takeuforward.org/arrays/count-subarray-sum-equals-k/
+
+      
