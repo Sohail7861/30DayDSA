@@ -1,0 +1,62 @@
+1. Pascal's Triangle :
+      Video    : https://youtu.be/bR7mQgwQ_o8
+      Problem  : https://leetcode.com/problems/pascals-triangle/description/
+      Solution : https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/
+
+2. Majority Element :
+      Video    : https://youtu.be/vwZj1K0e9U8
+      Problem  : https://leetcode.com/problems/majority-element-ii/description/
+      Solution : https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/
+
+3. Three Sum :
+      Video    : https://youtu.be/DhFh8Kw7ymk
+      Problem  : https://leetcode.com/problems/3sum/description/
+      Solution : https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/
+
+4. Four Sum :
+      Video    : https://youtu.be/eD95WRfh81c
+      Problem  : https://leetcode.com/problems/4sum/description/
+      Solution : https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/
+
+5. Largest Subarray with sum 0 :
+      Video    : https://youtu.be/xmguZ6GbatA
+      Problem  : https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1?category%5B%5D=Hash&company%5B%5D=Amazon&page=1&query=category%5B%5DHashcompany%5B%5DAmazonpage1company%5B%5DAmazoncategory%5B%5DHash&utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-subarray-with-0-sum
+      Solution : https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/
+
+6. Subarray with given XOR :
+      Video    : https://youtu.be/eZr-6p0B7ME
+      Problem  : https://www.interviewbit.com/problems/subarray-with-given-xor/
+      Solution : https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/
+
+7. Merge Intervals :
+      Video    : https://youtu.be/IexN60k62jo
+      Problem  : https://leetcode.com/problems/merge-intervals/description/
+      Solution : https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/
+
+8. Merge Sorted Array :
+      Video    : https://youtu.be/n7uwj04E0I4
+      Problem  : https://leetcode.com/problems/merge-sorted-array/description/
+      Solution : https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
+9. Missing And Repeating :
+      Video    : https://youtu.be/2D0D8HE6uak
+      Problem  : https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=find-missing-and-repeating
+      Solution : https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/
+
+10. Count Inversions:
+      Video    : https://youtu.be/AseUmwVNaoY
+      Problem  : https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=inversion-of-array
+      Solution : https://takeuforward.org/data-structure/count-inversions-in-an-array/
+
+11. Reverse Pairs :
+      Video    : https://youtu.be/0e4bZaP3MDI
+      Problem  : https://leetcode.com/problems/reverse-pairs/description/
+      Solution : https://takeuforward.org/data-structure/count-reverse-pairs/
+
+12. Maximum Product Subarray :
+      Video    : https://youtu.be/hnswaLJvr6g
+      Problem  : https://leetcode.com/problems/maximum-product-subarray/description/
+      Solution : https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/
+
+
+      
